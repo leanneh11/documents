@@ -6,7 +6,7 @@ This is week one's documentation project to create a guide to help people create
 
 ## Image:** 
 <br>
-<img src="SetUp.png" width='500' />
+<img src="GitHubSetUp.png" width='500' />
 
 ## **How to Run the Program:**
 First install the files. To install, please download the files to your laptop.  To execute, drag index.html onto your browser's URL window.
