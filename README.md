@@ -7,7 +7,7 @@ This is week one's documentation project to communicate and record how to set up
 
 ## **Image:**
 <br>
-<img src="documents.png" width='500' />
+<img src="githubsetup.png" width='500' />
 
 ## **Roadmap of Future Improvements:**
 The plan for improving this document includes the following:
