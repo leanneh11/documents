@@ -8,9 +8,6 @@ This is week one's documentation project to create a guide to help people create
 <br>
 <img src="githubsetup.png" width='500' />
 
-## **How to Run the Program:**
-First install the files. To install, please download the files to your laptop.  To execute, drag index.html onto your browser's URL window.
-
 ## **Roadmap of Future Improvements:**
 The plan for improving this program includes the following:
 - Adding other GitHub features to the document, such as how to use GitHub Pages
