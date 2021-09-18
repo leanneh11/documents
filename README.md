@@ -4,7 +4,7 @@
 ## **Description:**
 This is week one's documentation project to create a guide to help people create a repository and personal web page in GitHub. This assignment uses PowerPoint and PDF.
 
-## Image:** 
+## **Image:** 
 <br>
 <img src="GitHubSetUp.png" width='500' />
 
